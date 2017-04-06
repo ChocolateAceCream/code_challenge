@@ -1,0 +1,4 @@
+My favorite framwork is Ruby on Rails, thanks to the active community all my
+previous wish all come true, such as including streaming in rails 4 and
+websocket in rails 5. It's so well designed that even JS community cloned a JS
+version Rails recently, which is called Sails. Currently one thing I desired for Rails 6 is its better ingetration with NoSQL database, I hope the activeModel could work with NoSQL nativly, not relay on different gems any more, because those gems are not guarteened to be updated, which will be a potential problem for maintainess in the future.
